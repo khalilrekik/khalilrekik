@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @khalilrekik
-- 👀 I’m interested in web and mobile development 
-- 🌱 I’m currently learning Android development
